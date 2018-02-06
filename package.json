@@ -1,6 +1,6 @@
 {
   "name": "spinal-lib-admin-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
