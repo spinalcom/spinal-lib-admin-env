@@ -7,7 +7,7 @@
     "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
     "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
     "spinal-env-admin-panel-user-manager": "https://github.com/spinalcom/spinal-env-admin-panel-user-manager.git",
-    "spinal-env-admin-panel-hub-status": "https://github.com/spinalcom/spinal-env-admin-pannel-hub-status.git"
+    "spinal-env-admin-panel-hub-status": "https://github.com/spinalcom/spinal-env-admin-panel-hub-status.git"
   },
   "devDependencies": {},
   "scripts": {
