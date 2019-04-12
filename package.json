@@ -4,8 +4,8 @@
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
-    "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
-    "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
+    "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git#right2.0",
+    "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git#right-2.0",
     "spinal-env-admin-panel-user-manager": "https://github.com/spinalcom/spinal-env-admin-panel-user-manager.git",
     "spinal-env-admin-panel-hub-status": "https://github.com/spinalcom/spinal-env-admin-panel-hub-status.git",
     "spinal-env-admin-access-rights-manager": "https://github.com/spinalcom/spinal-env-admin-access-rights-manager.git"
