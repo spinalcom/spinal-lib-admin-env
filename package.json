@@ -1,12 +1,12 @@
 {
   "name": "spinal-lib-admin-env",
-  "version": "v1.0.4",
+  "version": "v1.0.5",
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
     "spinal-env-drive-core": "https://github.com/spinalcom/spinal-env-drive-core.git",
     "spinal-env-drive-plugin-base": "https://github.com/spinalcom/spinal-env-drive-plugin-base.git",
-    "spinal-env-admin-panel-user-manager": "https://github.com/spinalcom/spinal-env-admin-panel-user-manager.git",
+    "spinal-env-admin-panel-user-manager": "https://github.com/spinalcom/spinal-env-admin-panel-user-manager.git#v2.0.0",
     "spinal-env-admin-panel-hub-status": "https://github.com/spinalcom/spinal-env-admin-panel-hub-status.git",
     "spinal-env-admin-access-rights-manager": "https://github.com/spinalcom/spinal-env-admin-access-rights-manager.git"
   },
